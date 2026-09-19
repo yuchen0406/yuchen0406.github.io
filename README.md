@@ -1,2 +1,5 @@
-# yuchen0406.github.io
-Personal homepage
+# Yu Chen
+Undergraduate Student
+Sichuan Agricultural University
+
+Research Interests: Machine Learning, Dialogue Systems
